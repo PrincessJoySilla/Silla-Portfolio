@@ -8,7 +8,7 @@ This portfolio showcases a collection of academic and personal engineering proje
 
 ## Featured Projects
 
-### 🌱 SmartVendo+
+### ♻ SmartVendo+
 IoT-based reverse vending machine system for plastic bottle and paper waste management.  
 Repository: https://github.com/princesssilla/SmartVendoPlus
 
