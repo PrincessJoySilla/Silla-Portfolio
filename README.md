@@ -1,6 +1,6 @@
 # Silla Portfolio
 
-Computer Engineer focused on IoT systems, embedded automation, and applied machine learning.
+Aspiring Computer Engineer with a passion for developing innovative hardware and software solutions that solve real-world problems.
 
 This portfolio showcases a collection of academic and personal engineering projects involving embedded systems, smart agriculture, environmental monitoring, and automation technologies.
 
@@ -9,7 +9,7 @@ This portfolio showcases a collection of academic and personal engineering proje
 ## Featured Projects
 
 ### ♻ SmartVendo+
-IoT-based reverse vending machine system for plastic bottle and paper waste management.  
+Reverse vending machine system for plastic bottle and paper waste management.  
 Repository: https://github.com/princesssilla/SmartVendoPlus
 
 ### 🌿 AgriDryTech
