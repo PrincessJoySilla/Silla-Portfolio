@@ -63,6 +63,6 @@ Repository: https://github.com/princesssilla/Christmas-Lights-Patterns-
 
 ---
 
-### Linkedin: https://www.linkedin.com/in/pjsilla/
+### LinkedIn: https://www.linkedin.com/in/pjsilla/
 
 ### Email: princessjoy.pjs@gmail.com
