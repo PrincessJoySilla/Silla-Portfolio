@@ -34,8 +34,6 @@ Repository: https://github.com/princesssilla/Automatic-Water-Dispenser
 Microcontroller-based LED pattern generator for programmable lighting effects.  
 Repository: https://github.com/princesssilla/Christmas-Lights-Patterns-
 
----
-
 ## 💻 Tech Stack
 
 ### 💡 Programming Languages
